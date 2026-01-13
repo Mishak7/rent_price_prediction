@@ -1,6 +1,5 @@
 .idea/
 data/
-model/
 __pycache__/
 *.pyc
 .env
